@@ -270,7 +270,6 @@ footer p {
         width: 90%;
     }
 
-
     .work2 img {
         margin: 2%;
     }
@@ -278,9 +277,15 @@ footer p {
     .subT{
         font-size: 20px;
         line-height: 35px;
+        margin-left: 30px;
     }
     .subTt {
         line-height: 20px;
+        margin-left: 30px;
+    }
+
+    .proj_logo{
+        margin-left: 30px;
     }
 }
 
